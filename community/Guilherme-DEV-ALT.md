@@ -16,6 +16,10 @@ Olá! Sou o Guilherme, estudante de programação e participante da comunidade D
 
 Nesse projeto, estou praticando validação de entradas, separação entre interface e regras de negócio, cálculos com `Decimal` e testes automatizados com `unittest`.
 
+## Contribuição na comunidade DIO
+
+Este perfil faz parte do desafio **Contribuindo em um Projeto Open Source no GitHub**. Estou praticando o fluxo de contribuição com fork, branch própria, commit padronizado e pull request, mantendo a alteração restrita ao arquivo do meu perfil em `community`.
+
 ## Objetivos de aprendizagem
 
 - Fortalecer minha lógica de programação e escrever código organizado.
